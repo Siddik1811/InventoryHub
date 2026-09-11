@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 55000,
+    "quantity": 12,
+    "supplier": "TechWorld",
+    "status": "In Stock"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 1200,
+    "quantity": 35,
+    "supplier": "GearHub",
+    "status": "In Stock"
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "category": "Accessories",
+    "price": 1800,
+    "quantity": 8,
+    "supplier": "GearHub",
+    "status": "Low Stock"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "category": "Electronics",
+    "price": 15000,
+    "quantity": 5,
+    "supplier": "DisplayPro",
+    "status": "Low Stock"
+  },
+  {
+    "id": 5,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 8500,
+    "quantity": 18,
+    "supplier": "ComfortZone",
+    "status": "In Stock"
+  },
+  {
+    "id": 6,
+    "name": "Desk Lamp",
+    "category": "Furniture",
+    "price": 2200,
+    "quantity": 0,
+    "supplier": "BrightHome",
+    "status": "Out of Stock"
+  }
+]
