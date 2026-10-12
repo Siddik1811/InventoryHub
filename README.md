@@ -37,7 +37,7 @@ Users can:
 - JSON file-based data storage
 
 ## Project Structure
-
+InventoryHub provides a simple dashboard for managing inventory products.
 ```text
 InventoryHub/
 │
