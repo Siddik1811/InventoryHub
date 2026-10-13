@@ -35,7 +35,7 @@ Users can:
 - CORS
 - REST API
 - JSON file-based data storage
-
+## Project Overview
 ## Project Structure
 InventoryHub provides a simple dashboard for managing inventory products.
 ```text
